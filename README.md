@@ -2,6 +2,8 @@
 
 Laboratório digital de corrida de Fórmula 1: conecta o que aconteceu na pista, o que dá para investigar e o que poderia ter acontecido.
 
+**No ar:** https://apex-intelligence-won3ers-projects.vercel.app
+
 ## Para quem é
 Fãs, analistas e criadores de conteúdo que querem entender corridas de Fórmula 1 a fundo, com dados reais.
 
