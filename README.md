@@ -26,8 +26,4 @@ Fãs, analistas e criadores de conteúdo que querem entender corridas de Fórmul
 
 ![Race Control](images/04-race-control.png)
 
----
-
-Este repositório é uma **vitrine** do projeto: mostra o que o sistema faz e como ele é. O código-fonte não é público.
-
 Desenvolvido por [@won3er](https://github.com/won3er).
